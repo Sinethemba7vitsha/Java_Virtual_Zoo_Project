@@ -26,7 +26,7 @@ Clone the repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/your-username/virtual-zoo.git
+git clone https://github.com/Sinethemba7vitsha/virtual-zoo.git
 Navigate to the project directory:
 
 bash
